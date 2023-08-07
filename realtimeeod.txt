@@ -1,0 +1,1 @@
+python3 yolo.py -w==yolov3-tiny.weights cfg=cfg/yolov3-tiny.cfg -v= Market\ street.mp4l=data/coco.names
